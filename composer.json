@@ -1,0 +1,9 @@
+{
+  "require": {
+    "indeyets/pake": "~1.99",
+    "silex/silex": "~1.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "3.7.*"
+  }
+}
